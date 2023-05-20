@@ -47,7 +47,7 @@ const names = [
   "Sent Video",
   "Diabetes Education",
   "Diabetes Coordination",
-  "Pain Management / Coordition",
+  "Pain Management / Coordination",
   "Emergency Contact Outreach",
   "Education / Resources Requested",
   "Fall Risk Assessment",
